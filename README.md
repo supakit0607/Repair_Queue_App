@@ -180,14 +180,12 @@ flutter doctor
 # ล้างแคช
 flutter clean
 📸 ตัวอย่างหน้าจอแอปพลิเคชัน
-   <p align="center">
-  <img src="Screenshot 2026-03-16 115334.png" width="250" alt="/>
-  <img src="Screenshot 2026-03-16 115951.png" width="250" alt="/>
-  <img src="Screenshot 2026-03-16 115349.png" width="250" alt="/>
-  <img src="Screenshot 2026-03-16 115902.png" width="250" alt="/>
-   <img src="Screenshot 2026-03-16 120005.png" width="250" alt="/>
+<p align="center">
+  <img src="im/Screenshot 2026-03-16 115334.png" width="250" alt="Dashboard Screen"/>
+  <img src="im/Screenshot 2026-03-16 115951.png" width="250" alt="Add Form Screen"/>
+  <img src="im/Screenshot 2026-03-16 115349.png" width="250" alt="Confirm Delete Screen"/>
+  <img src="im/Screenshot 2026-03-16 115902.png" width="250" alt="Detail Screen"/>
 </p>
-
 
 🐛 การแก้ไขปัญหาที่พบบ่อย
 ปัญหา: รันคำสั่ง flutter run ไม่ได้
