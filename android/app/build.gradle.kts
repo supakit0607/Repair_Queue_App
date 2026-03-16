@@ -7,7 +7,7 @@ plugins {
 
 android {
     // 1. แก้ไข Namespace ตรงนี้ (เติม u นำหน้าตัวเลข)
-    namespace = "com.u675432100468.repair_app" 
+    namespace = "com.supakit.repair_app" 
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -22,7 +22,7 @@ android {
 
     defaultConfig {
         // 2. แก้ไข Application ID ตรงนี้ให้ตรงกับ Namespace
-        applicationId = "com.u675432100468.repair_app" 
+        applicationId = "com.supakit.repair_app" 
         
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
