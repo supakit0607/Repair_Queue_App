@@ -1,10 +1,6 @@
 # 🛠️ ระบบคิวงานซ่อม (Repair Queue App)
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=🚗+🔧" alt="Repair Queue Logo" width="200"/>
-</p>
-
-<p align="center">
   <strong>แอปพลิเคชันสำหรับการคิวงานซ่อม</strong>
 </p>
 
