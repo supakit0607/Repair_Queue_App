@@ -52,6 +52,15 @@
 - ข้อมูลคงอยู่แม้ปิดแอปพลิเคชัน
 - ไม่ต้องเชื่อมต่ออินเทอร์เน็ต
 
+
+
+📸 ตัวอย่างหน้าจอแอปพลิเคชัน
+
+![alt text](<Screenshot 2026-03-16 115334.png>)
+![alt text](<Screenshot 2026-03-16 115951.png>)
+![alt text](<Screenshot 2026-03-16 115349.png>)
+![alt text](<Screenshot 2026-03-16 115902.png>)
+
 ---
 
 ## 🗄️ โครงสร้างฐานข้อมูล
@@ -173,12 +182,7 @@ flutter doctor
 
 # ล้างแคช
 flutter clean
-📸 ตัวอย่างหน้าจอแอปพลิเคชัน
 
-![alt text](<Screenshot 2026-03-16 115334.png>)
-![alt text](<Screenshot 2026-03-16 115951.png>)
-![alt text](<Screenshot 2026-03-16 115349.png>)
-![alt text](<Screenshot 2026-03-16 115902.png>)
 
 🐛 การแก้ไขปัญหาที่พบบ่อย
 ปัญหา: รันคำสั่ง flutter run ไม่ได้
